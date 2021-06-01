@@ -1,1 +1,1 @@
-# Image_Processin_basics
+# Image_Processing_basics
